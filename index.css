@@ -22,10 +22,19 @@
 }
 
 .col{
-  padding: 20px;
+  padding: 10px;
+}
+
+.data-text{
+  font-size: 65px;
+}
+
+.article h1:hover{
+  text-decoration: underline;
 }
 
 .footer,
 .footer a{
   color: white;
+  font-weight: 700;
 }
