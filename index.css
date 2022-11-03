@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  width: 100%;
+  position: fixed;
+  overflow: hidden;
+  z-index: 100;
+}
+
+.navbar-brand svg{
+  border-radius: 50px;
+  width: 64px;
+  margin: 10px;
+}
+
+.main-header{
+  padding: 50px 0px;
+  margin-right: 500px;
+}
+
+.col{
+  padding: 20px;
+}
+
+.footer,
+.footer a{
+  color: white;
+}
